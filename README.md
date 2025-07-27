@@ -29,11 +29,10 @@ This app uses the **[Multi-News Dataset](https://huggingface.co/datasets/multi_n
 
 | Component     | Description                                 |
 |---------------|---------------------------------------------|
-| `Transformers`| Model training and inference (BART, T5)     |
-| `PyTorch`     | Backend training support                    |
-| `Streamlit`   | Web app interface                           |
-| `HuggingFace` | Loading and preprocessing datasets          |
-|  `Datasets`   |                                             |
+| `Transformers` | Model training and inference (BART, T5)     |
+| `PyTorch`     | Backend training support                     |
+| `Streamlit`   | Web app interface                            |
+| `Hugging Face Datasets` | Loading and preprocessing datasets |
 
 ---
 
@@ -72,4 +71,3 @@ streamlit run app.py
 📤 Input Format
 Paste multiple news articles separated by |||||
 
-👉 Live Demo on Streamlit
