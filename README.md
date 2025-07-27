@@ -1,1 +1,1 @@
-# Multi-News-Article-Summarizer-A
+# Multi-News-Article-Summarizer
